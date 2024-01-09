@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nivetharagupathi
 - 👀 I’m interested in full stack developer 
 - 🌱 I’m currently learning java,html,css, javascript
-- 📫 How to reach me nivetharagupathi03@gmail.com
+- 📫 How to reach me By nivetharagupathi03@gmail.com
 
 
 <!---
